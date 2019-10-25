@@ -31,7 +31,7 @@ Grand total: 0 / 37
 ## Sequence
 - [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
 
-## Array (Total: 10)
+## Array
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) 
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
@@ -43,7 +43,7 @@ Grand total: 0 / 37
 - [ ] [3Sum](https://leetcode.com/problems/3sum/) 
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) 
 
-# Binary (Total: 6)
+# Binary
 - [ ] [Bits, Bytes, Building With Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa) 
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) 
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) 
@@ -51,7 +51,7 @@ Grand total: 0 / 37
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/) 
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) 
 
-# Dynamic Programming (Total: 12)
+# Dynamic Programming
 - [ ] [Demystifying Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296) 
 - [ ] [0/1 Knapsack](http://www.geeksforgeeks.org/knapsack-problem/) 
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
@@ -65,7 +65,7 @@ Grand total: 0 / 37
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/) 
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/) 
 
-# Geometry (Total: 10)
+# Geometry
 - [ ] [From Theory To Practice: Representing Graphs](https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38) 
 - [ ] [Deep Dive Through A Graph: DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13) 
 - [ ] [Going Broad In A Graph: BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255) 
@@ -78,13 +78,13 @@ Grand total: 0 / 37
 - [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) 
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 
 
-# Interval (Total: 4)
+# Interval
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)  and  [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
 
-# Linked list (Total: 6)
+# Linked list
 - [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) 
 - [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) 
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 
@@ -92,22 +92,22 @@ Grand total: 0 / 37
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/) 
 
-# Math (Total: 3)
+# Math
 - [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/) 
 - [ ] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) 
 - [ ] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) 
 
-# Matrix (Total: 4)
+# Matrix
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) 
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) 
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/) 
 - [ ] [Word Search](https://leetcode.com/problems/word-search/) 
 
-# Recursion (Total: 2)
+# Recursion
 - [ ] [Subsets](https://leetcode.com/problems/subsets/)  and  [Subsets II](https://leetcode.com/problems/subsets-ii/) 
 - [ ] [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) 
 
-# String (Total: 14)
+# String
 - [ ] [Trie/Prefix Tree](https://www.wikiwand.com/en/Trie) 
 - [ ] [Suffix Tree](https://www.wikiwand.com/en/Suffix_tree) 
 - [ ] [Rabin Karp](https://www.wikiwand.com/en/Rabin%E2%80%93Karp_algorithm) , which conducts efficient searches of substrings, using a rolling hash
@@ -123,7 +123,7 @@ Grand total: 0 / 37
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) 
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) 
 
-# Tree (Total: 17)
+# Tree
 - [ ] [Leaf It Up To Binary Trees](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d) 
 - [ ] [Trying to Understand Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014) 
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/articles/implement-trie-prefix-tree/) 
@@ -142,7 +142,7 @@ Grand total: 0 / 37
 - [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design) 
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/) 
 
-# Heap (Total: 4)
+# Heap
 - [ ] [Learning to Love Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) 
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
