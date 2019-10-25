@@ -1,7 +1,10 @@
 # LeetcodeInSwift
 Leetcode challenge solution in Swift with recommended Leetcode problems(with link) to take.
 
-Table of Contents
+##### Table of Contents  
+[Sequence](#Sequence)  
+[Array](#Array)  
+
 * [Sequence](bear://x-callback-url/open-note?id=EF2E3DB8-695E-49F7-8621-47FAED1A453D-440-0001145B6EFDC94E&header=Sequence)
 * [Array](bear://x-callback-url/open-note?id=EF2E3DB8-695E-49F7-8621-47FAED1A453D-440-0001145B6EFDC94E&header=Array)
 * [Binary](bear://x-callback-url/open-note?id=EF2E3DB8-695E-49F7-8621-47FAED1A453D-440-0001145B6EFDC94E&header=Binary)
