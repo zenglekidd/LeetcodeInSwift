@@ -3,10 +3,10 @@ Leetcode challenge solution in Swift with recommended Leetcode problems(with lin
 
 ##### Table of Contents  
 * [Binary](#Binary) 
-* [Dynamic Programming](#Dynamic) 
+* [Dynamic Programming](#dynamic-programming-total-12) 
 * [Geometry](#Geometry) 
 * [Interval](#Interval) 
-* [Linked list](#Linked) 
+* [Linked list](#linked-list-total-6) 
 * [Math](#Math) 
 * [Matrix](#Matrix) 
 * [Recursion](#Recursion) 
