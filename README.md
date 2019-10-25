@@ -1,5 +1,5 @@
 # LeetcodeInSwift
-Leetcode challenge solution in Swift with recommended Leetcode problems(with link) to take.
+This repo contains Leetcode challenge solutions in Swift. README.md contains recommended Leetcode problems(with link) to take if you are starting fresh on [leetcode.com](https://leetcode.com).
 
 ##### Table of Contents  
 * [Sequence](#Sequence)
