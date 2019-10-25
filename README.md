@@ -1,5 +1,7 @@
 # LeetcodeInSwift
-This repo contains Leetcode challenge solutions in Swift. README.md contains recommended Leetcode problems(with link) to take if you are starting fresh on [leetcode.com](https://leetcode.com).
+- This repo contains Leetcode challenge solutions in Swift. 
+
+- README.md contains recommended Leetcode problems(with link) to take if you are starting fresh on [leetcode.com](https://leetcode.com).
 
 ##### Table of Contents  
 * [Sequence](#Sequence)
@@ -20,11 +22,11 @@ This repo contains Leetcode challenge solutions in Swift. README.md contains rec
 ---
 
 # Progress
-- [ ] [Array](#Array) 10 problems
-- [ ] [String](#String) 14 problems
-- [ ] [Interval](#Interval)  4 problems
-- [ ] [Math](#Math)  3 problems
-- [ ] [Linked list](#linked-list)  6 problems
+- [ ] [Array](#Array) 0 / 10 problems
+- [ ] [String](#String) 0 / 14 problems
+- [ ] [Interval](#Interval) 0 / 4 problems
+- [ ] [Math](#Math)  0 / 3 problems
+- [ ] [Linked list](#linked-list) 0 / 6 problems
 
 Grand total: 0 / 37
 
