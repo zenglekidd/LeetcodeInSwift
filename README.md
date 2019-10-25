@@ -2,13 +2,11 @@
 Leetcode challenge solution in Swift with recommended Leetcode problems(with link) to take.
 
 ##### Table of Contents  
-[Sequence](#Sequence)  
-[Array](#Array)  
 * [Binary](#Binary) 
-* [Dynamic Programming](#Dynamic Programming) 
+* [Dynamic Programming](#Dynamic) 
 * [Geometry](#Geometry) 
 * [Interval](#Interval) 
-* [Linked list](#Linked list) 
+* [Linked list](#Linked) 
 * [Math](#Math) 
 * [Matrix](#Matrix) 
 * [Recursion](#Recursion) 
