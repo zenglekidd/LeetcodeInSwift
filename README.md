@@ -5,10 +5,10 @@ Leetcode challenge solution in Swift with recommended Leetcode problems(with lin
 * [Sequence](#Sequence)
 * [Array](#Array)
 * [Binary](#Binary) 
-* [Dynamic Programming](#dynamic-programming-total-12) 
+* [Dynamic Programming](#dynamic-programming) 
 * [Geometry](#Geometry) 
 * [Interval](#Interval) 
-* [Linked list](#linked-list-total-6) 
+* [Linked list](#linked-list) 
 * [Math](#Math) 
 * [Matrix](#Matrix) 
 * [Recursion](#Recursion) 
@@ -24,7 +24,7 @@ Leetcode challenge solution in Swift with recommended Leetcode problems(with lin
 - [ ] [String](#String) 14 problems
 - [ ] [Interval](#Interval)  4 problems
 - [ ] [Math](#Math)  3 problems
-- [ ] [Linked list](#linked-list-total-6)  6 problems
+- [ ] [Linked list](#linked-list)  6 problems
 
 Grand total: 0 / 37
 
