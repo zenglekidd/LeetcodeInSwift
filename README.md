@@ -2,6 +2,8 @@
 Leetcode challenge solution in Swift with recommended Leetcode problems(with link) to take.
 
 ##### Table of Contents  
+* [Sequence](#Sequence)
+* [Array](#Array)
 * [Binary](#Binary) 
 * [Dynamic Programming](#dynamic-programming-total-12) 
 * [Geometry](#Geometry) 
@@ -18,11 +20,11 @@ Leetcode challenge solution in Swift with recommended Leetcode problems(with lin
 ---
 
 # Progress
-1. - [ ] Array 10 problems
-2. - [ ] String 14 problems
-3. - [ ] Interval 4 problems
-4. - [ ] Math 3 problems
-5. - [ ] Linked List 6 problems
+- [ ] [Array](#Array) 10 problems
+- [ ] [String](#String) 14 problems
+- [ ] [Interval](#Interval)  4 problems
+- [ ] [Math](#Math)  3 problems
+- [ ] [Linked list](#linked-list-total-6)  6 problems
 
 Grand total: 0 / 37
 
