@@ -17,12 +17,14 @@ Leetcode challenge solution in Swift with recommended Leetcode problems(with lin
 [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 ---
 
-# Plan
-1. - [ ] Array
-2. - [ ] String
-3. - [ ] Interval
-4. - [ ] Math
-5. - [ ] Linked List
+# Progress
+1. - [ ] Array 10 problems
+2. - [ ] String 14 problems
+3. - [ ] Interval 4 problems
+4. - [ ] Math 3 problems
+5. - [ ] Linked List 6 problems
+
+Grand total: 0 / 37
 
 ## Sequence
 - [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
