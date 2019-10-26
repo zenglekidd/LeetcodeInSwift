@@ -21,13 +21,13 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 ---
 
 # Progress
-- [ ] [Array](#Array) 0 / 10 problems
+- [ ] [Array](#Array) 2 / 10 problems
 - [ ] [String](#String) 0 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 0 / 37
+Grand total: 2 / 37
 
 ## Sequence
 - [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
@@ -41,7 +41,7 @@ Grand total: 0 / 37
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) 
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 
-- [ ] [3Sum](https://leetcode.com/problems/3sum/) 
+- [x] [3Sum](https://leetcode.com/problems/3sum/) 
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) 
 
 # Binary
