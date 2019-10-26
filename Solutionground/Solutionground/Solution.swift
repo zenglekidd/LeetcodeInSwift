@@ -7,83 +7,87 @@
 //
 
 /*
- Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+ 121. Best Time to Buy and Sell Stock
+ Easy
 
- Note:
+ Say you have an array for which the ith element is the price of a given stock on day i.
 
- The solution set must not contain duplicate triplets.
+ If you were only permitted to complete at most one transaction (i.e., buy one and sell one share of the stock), design an algorithm to find the maximum profit.
 
- Example:
+ Note that you cannot sell a stock before you buy one.
 
- Given array nums = [-1, 0, 1, 2, -1, -4],
+ Example 1:
 
- A solution set is:
- [
-   [-1, 0, 1],
-   [-1, -1, 2]
- ]
+ Input: [7,1,5,3,6,4]
+ Output: 5
+ Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+              Not 7-1 = 6, as selling price needs to be larger than buying price.
+ Example 2:
+
+ Input: [7,6,4,3,1]
+ Output: 0
+ Explanation: In this case, no transaction is done, i.e. max profit = 0.
  */
 
 class Solution {
-    func threeSum(_ nums: [Int]) -> [[Int]] {
-        if nums.count < 3 {
-            return []
-        }
+    func maxProfit(_ prices: [Int]) -> Int {
+        if prices.count < 2 {return 0}
         
-        var results: Set<[Int]> = []
+        var maxProfit = 0
+        var index0 = 0
+        var index1 = 0
         
-        var zeroCount = 0
-        let numSorted = nums.sorted()
-        for (index1, num1) in numSorted.enumerated() {
-
-            if num1 == 0 {
-                zeroCount += 1
-            }
-            if zeroCount > 3 {
-                continue
+        repeat {
+            index1 = index0 + 1
+            
+            let subArray = Array(prices.dropFirst(index0 + 1))
+            index1 += findMax(subArray)
+            
+            let subArray2 = Array(prices.dropLast(prices.count - index1).dropFirst(index0))
+            index0 += findMin(subArray2)
+            
+            let profit = prices[index1] - prices[index0]
+            if profit >= maxProfit {
+                maxProfit = profit
             }
             
-            let subArray = Array(numSorted.dropFirst(index1+1))
-            let twoSumResults = twoSum(subArray, -num1)
-            if twoSumResults != [] {
-                for twoSumResult in twoSumResults {
-                    var array = [num1]
-                    array.append(contentsOf: twoSumResult)
-                    let sortedArray = array.sorted()
-                    results.insert(sortedArray)
-                }
-            }
-        }
+            index0 = index1
+        } while(index0 < prices.count - 1)
         
-        let unsorted = Array(results)
-        return sortArrayOfArray(unsorted)
+        return maxProfit
     }
     
-    fileprivate func sortArrayOfArray(_ unsorted: [[Int]]) -> [[Int]] {
-        let sorted = unsorted.sorted {
-            if $0[0] != $1[0] {
-                return $0[0] < $1[0]
-            } else if $0[1] != $1[1] {
-                return $0[1] < $1[1]
-            } else {
-                return $0[2] < $1[2]
-            }
-        }
-        return sorted
-    }
-
-    fileprivate func twoSum(_ nums: [Int], _ target: Int) -> [[Int]] {
-        var dict: [Int: Int] = [:]
-        var results : [[Int]] = []
-
-        for (index, num) in nums.enumerated() {
-            if dict[num] != nil {
-                results.append([nums[dict[num]!], num])
-            }
-            
-            dict[target - num] = index
+    fileprivate func findMin(_ prices: [Int]) -> Int {
+        // return the index of Min
+        if prices.count == 1 {
+            return 0
         }
         
-        return results
+        var min = Int.max
+        var index = -1
+        for (currentIndex, price) in prices.enumerated() {
+            if price < min {
+                min = price
+                index = currentIndex
+            }
+        }
+        return index
+    }
+    
+    fileprivate func findMax(_ prices: [Int]) -> Int {
+        if prices.count == 1 {
+            return 0
+        }
+        
+        // return the index of Max
+        var max = Int.min
+        var index = -1
+        for (currentIndex, price) in prices.enumerated() {
+            if price > max {
+                max = price
+                index = currentIndex
+            }
+        }
+        return index
     }
 }
