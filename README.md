@@ -21,21 +21,21 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 ---
 
 # Progress
-- [ ] [Array](#Array) 2 / 10 problems
+- [ ] [Array](#Array) 4 / 10 problems
 - [ ] [String](#String) 0 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 2 / 37
+Grand total: 4 / 37
 
 ## Sequence
 - [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
 
 ## Array
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) 
