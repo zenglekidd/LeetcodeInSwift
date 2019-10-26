@@ -14,11 +14,7 @@ import UIKit
  */
 
 class Solution {
-    func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
-//        if nums.count < 2 {
-//            return [-1]
-//        }
-        
+    func twoSum(_ nums: [Int], _ target: Int) -> [Int] {  
         var dict: [Int: Int] = [:]
         
         for (index, num) in nums.enumerated() {
@@ -27,22 +23,6 @@ class Solution {
             }
             
             dict[target - num] = index
-        }
-        
-        return [-1]
-    }
-    
-    private func bruteForceTwoSum(_ nums: [Int], _ target: Int) -> [Int] {
-        if nums.count < 2 {
-            return [-1]
-        }
-        
-        for (index1, num1) in nums.enumerated() {
-            for (index2, num2) in nums.enumerated() {
-                if num1 + num2 == target && index1 < index2 {
-                    return [index1, index2]
-                }
-            }
         }
         
         return [-1]
