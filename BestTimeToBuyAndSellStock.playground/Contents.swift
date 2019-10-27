@@ -52,27 +52,27 @@ class SolutionTests: XCTestCase {
         let results = solution.maxProfit([5,6])
         XCTAssertEqual(results, 1)
     }
-
-    func testTwoPriceNegative() {
-        let results = solution.maxProfit([10,6])
-        XCTAssertEqual(results, 0)
-    }
-
-    func testThreePricePositive() {
-        let results = solution.maxProfit([5,6,7])
-        XCTAssertEqual(results, 2)
-    }
-
-
-    func testExample1() {
-        let results = solution.maxProfit([7,1,5,3,6,4])
-        XCTAssertEqual(results, 5)
-    }
-
-    func testExample2() {
-        let results = solution.maxProfit([7,6,4,3])
-        XCTAssertEqual(results, 0)
-    }
+//
+//    func testTwoPriceNegative() {
+//        let results = solution.maxProfit([10,6])
+//        XCTAssertEqual(results, 0)
+//    }
+//
+//    func testThreePricePositive() {
+//        let results = solution.maxProfit([5,6,7])
+//        XCTAssertEqual(results, 2)
+//    }
+//
+//
+//    func testExample1() {
+//        let results = solution.maxProfit([7,1,5,3,6,4])
+//        XCTAssertEqual(results, 5)
+//    }
+//
+//    func testExample2() {
+//        let results = solution.maxProfit([7,6,4,3])
+//        XCTAssertEqual(results, 0)
+//    }
 }
 
 SolutionTests.defaultTestSuite.run()
