@@ -30,7 +30,8 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 Grand total: 6 / 37
 
 ## Paper
-Programming pearls: algorithm design techniques by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
+- [x] Programming pearls: algorithm design techniques by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
+- [ ] A Note on the Standard Strategy for Developing Loop Invariants and Loops by David Gries (ScienceofComputerProgramming2,pp. 207- 214)
 
 ## Sequence
 - [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
