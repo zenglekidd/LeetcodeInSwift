@@ -3,7 +3,7 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 
 ---
 ##### Table of Contents  
-* [Sequence](#Sequence)
+* [Paper](#Paper)
 * [Array](#Array)
 * [Binary](#Binary) 
 * [Dynamic Programming](#dynamic-programming) 
@@ -21,13 +21,16 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 ---
 
 # Progress
-- [ ] [Array](#Array) 5 / 10 problems
+- [ ] [Array](#Array) 6 / 10 problems
 - [ ] [String](#String) 0 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 4 / 37
+Grand total: 6 / 37
+
+## Paper
+Programming pearls: algorithm design techniques by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
 
 ## Sequence
 - [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
@@ -37,7 +40,7 @@ Grand total: 4 / 37
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) 
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 
