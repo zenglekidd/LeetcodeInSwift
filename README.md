@@ -31,6 +31,8 @@ Grand total: 6 / 37
 
 ## Paper
 - [x] Programming pearls: algorithm design techniques by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
+Related problem: [Maximum Subarray](#Array)
+
 - [ ] A Note on the Standard Strategy for Developing Loop Invariants and Loops by David Gries (ScienceofComputerProgramming2,pp. 207- 214)
 
 ## Sequence
