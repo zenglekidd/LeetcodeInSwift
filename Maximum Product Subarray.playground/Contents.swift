@@ -15,13 +15,23 @@
 
 class Solution {
     func maxProduct(_ nums: [Int]) -> Int {
-        var maxProduct = 1
-        var maxProductEndHere = 1
-        for i in 0..<nums.count {
-            maxProductEndHere = max(nums[i], maxProductEndHere * nums[i])
-            maxProduct = max(maxProduct, maxProductEndHere)
-        }
-        return maxProduct
+                if nums.count == 1 {
+                    return nums[0]
+                }
+                
+                var maxSoFar = nums[0]
+                var maxEndingHere = nums[0]
+                var minEndingHere = nums[0]
+        
+                for i in 1..<nums.count {
+                    let temp = maxEndingHere
+                    maxEndingHere = max(minEndingHere * nums[i], maxEndingHere * nums[i], nums[i])
+                    minEndingHere = min(temp * nums[i], minEndingHere * nums[i], nums[i])
+                    if maxEndingHere > maxSoFar {
+                        maxSoFar = maxEndingHere
+                    }
+                }
+                return maxSoFar
     }
 }
 
@@ -38,24 +48,49 @@ class SolutionTests: XCTestCase {
         let results = solution.maxProduct([-2,1,-3,4,-1,2,1,-5,4])
         XCTAssertEqual(results, 960)
     }
-    
-//    func testExample2() {
-//        let results = solution.maxProduct([31,-41,59,26,-53,58,97,-93,-23,84])
-//        XCTAssertEqual(results, 0)
-//    }
-    
+
+    func testExample2() {
+        let results = solution.maxProduct([-2,0,-1])
+        XCTAssertEqual(results, 0)
+    }
+
     func testExample3() {
         let results = solution.maxProduct([-1])
         XCTAssertEqual(results, -1)
     }
-    
+
     func testExample4() {
         let results = solution.maxProduct([1,2,3,4])
         XCTAssertEqual(results, 24)
     }
-    
+
     func testExample5() {
         let results = solution.maxProduct([-3,-2,-1,-4])
+        XCTAssertEqual(results, 24)
+    }
+
+    func testExample6() {
+        let results = solution.maxProduct([2,3,-2,4])
+        XCTAssertEqual(results, 6)
+    }
+
+    func testExample7() {
+        let results = solution.maxProduct([-1, 0])
+        XCTAssertEqual(results, 0)
+    }
+
+    func testExample8() {
+        let results = solution.maxProduct([1, 0])
+        XCTAssertEqual(results, 1)
+    }
+
+    func testExample9() {
+        let results = solution.maxProduct([3,-1,4])
+        XCTAssertEqual(results, 4)
+    }
+
+    func testExample10() {
+        let results = solution.maxProduct([2,-5,-2,-4,3])
         XCTAssertEqual(results, 24)
     }
 }
