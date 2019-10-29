@@ -21,13 +21,13 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 ---
 
 # Progress
-- [ ] [Array](#Array) 6 / 10 problems
+- [ ] [Array](#Array) 8 / 10 problems
 - [ ] [String](#String) 0 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 6 / 37
+Grand total: 8 / 37
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -48,8 +48,8 @@ Related:
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) 
-- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 
+- [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 
 - [x] [3Sum](https://leetcode.com/problems/3sum/) 
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) 
 
