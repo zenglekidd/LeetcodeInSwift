@@ -21,7 +21,7 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 ---
 
 # Progress
-- [ ] [Array](#Array) 11 / 11 problems
+- [x] [Array](#Array) 11 / 11 problems
 - [ ] [String](#String) 0 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
