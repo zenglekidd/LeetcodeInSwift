@@ -38,6 +38,8 @@ Related:
 
 - [ ] 'A Note on the Standard Strategy for Developing Loop Invariants and Loops' by David Gries (ScienceofComputerProgramming2,pp. 207- 214)
 
+- [ ] E. W. Dijkstra, Some beautiful arguments using mathematical induction, Actu Informat. 13 (1980) 1-8.
+
 ## Sequence
 - [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
 
