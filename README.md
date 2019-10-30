@@ -36,7 +36,7 @@ Related:
 * [Maximum Subarray](#Array)
 * 'Data Structures and Algorithms' undergraduate book by Aho, Hop- croft, and Ullman (Chapter10 on "Algorithm Design Techniques")
 
-- [ ] 'A Note on the Standard Strategy for Developing Loop Invariants and Loops' by David Gries (ScienceofComputerProgramming2,pp. 207- 214)
+- [ ] 'A Note on the Standard Strategy for Developing Loop Invariants and Loops' by David Gries (1982) (ScienceofComputerProgramming2,pp. 207- 214)
 
 - [ ] E. W. Dijkstra, Some beautiful arguments using mathematical induction, Actu Informat. 13 (1980) 1-8.
 
