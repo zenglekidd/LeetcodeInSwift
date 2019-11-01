@@ -21,13 +21,13 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 ---
 
 # Progress
-- [ ] [Array](#Array) 8 / 10 problems
+- [x] [Array](#Array) 11 / 11 problems
 - [ ] [String](#String) 0 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 8 / 37
+Grand total: 11 / 38
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -36,7 +36,9 @@ Related:
 * [Maximum Subarray](#Array)
 * 'Data Structures and Algorithms' undergraduate book by Aho, Hop- croft, and Ullman (Chapter10 on "Algorithm Design Techniques")
 
-- [ ] 'A Note on the Standard Strategy for Developing Loop Invariants and Loops' by David Gries (ScienceofComputerProgramming2,pp. 207- 214)
+- [ ] 'A Note on the Standard Strategy for Developing Loop Invariants and Loops' by David Gries (1982) (ScienceofComputerProgramming2,pp. 207- 214)
+
+- [ ] E. W. Dijkstra, Some beautiful arguments using mathematical induction, Actu Informat. 13 (1980) 1-8.
 
 ## Sequence
 - [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
@@ -47,11 +49,12 @@ Related:
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
-- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) 
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) 
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 
 - [x] [3Sum](https://leetcode.com/problems/3sum/) 
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) 
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [Maximum Average Subarray I - LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/)
 
 # Binary
 - [ ] [Bits, Bytes, Building With Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa) 
