@@ -22,12 +22,12 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 
 # Progress
 - [x] [Array](#Array) 11 / 11 problems
-- [ ] [String](#String) 0 / 14 problems
+- [ ] [String](#String) 1 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 11 / 38
+Grand total: 12 / 38
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -125,7 +125,7 @@ Related:
 - [ ] [Suffix Tree](https://www.wikiwand.com/en/Suffix_tree) 
 - [ ] [Rabin Karp](https://www.wikiwand.com/en/Rabin%E2%80%93Karp_algorithm) , which conducts efficient searches of substrings, using a rolling hash
 - [ ] [KMP](https://www.wikiwand.com/en/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) , which conducts efficient searches of substrings
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) 
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) 
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 
