@@ -23,12 +23,12 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 # Progress
 - [x] [Array](#Array) 11 / 11 problems
 - [ ] [Dynamic Programming](#dynamic-programming) 4 / 12 problems
-- [ ] [String](#String) 1 / 14 problems
+- [ ] [String](#String) 5 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 16 / 50
+Grand total: 20 / 50
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -39,7 +39,7 @@ Related:
 
 - [ ] 'A Note on the Standard Strategy for Developing Loop Invariants and Loops' by David Gries (1982) (ScienceofComputerProgramming2,pp. 207- 214)
 
-- [ ] E. W. Dijkstra, Some beautiful arguments using mathematical induction, Actu Informat. 13 (1980) 1-8.
+- [x] E. W. Dijkstra, Some beautiful arguments using mathematical induction, Actu Informat. 13 (1980) 1-8.
 
 ## Sequence
 - [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
@@ -122,10 +122,10 @@ Related:
 - [ ] [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) 
 
 # String
-- [ ] [Trie/Prefix Tree](https://www.wikiwand.com/en/Trie) 
-- [ ] [Suffix Tree](https://www.wikiwand.com/en/Suffix_tree) 
-- [ ] [Rabin Karp](https://www.wikiwand.com/en/Rabin%E2%80%93Karp_algorithm) , which conducts efficient searches of substrings, using a rolling hash
-- [ ] [KMP](https://www.wikiwand.com/en/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) , which conducts efficient searches of substrings
+- [x] [Trie/Prefix Tree](https://www.wikiwand.com/en/Trie) 
+- [x] [Suffix Tree](https://www.wikiwand.com/en/Suffix_tree) 
+- [x] [Rabin Karp](https://www.wikiwand.com/en/Rabin%E2%80%93Karp_algorithm) , which conducts efficient searches of substrings, using a rolling hash
+- [x] [KMP](https://www.wikiwand.com/en/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) , which conducts efficient searches of substrings
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) 
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) 
