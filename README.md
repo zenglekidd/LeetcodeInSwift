@@ -22,13 +22,13 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 
 # Progress
 - [x] [Array](#Array) 11 / 11 problems
-- [ ] [Dynamic Programming](#dynamic-programming) 4 / 12 problems
+- [ ] [Dynamic Programming](#dynamic-programming) 10 / 12 problems
 - [ ] [String](#String) 5 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 20 / 50
+Grand total: 26 / 50
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -72,12 +72,13 @@ Related:
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/) 
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) 
 - [ ] [Longest Common Subsequence](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms) 
-- [ ] [Word Break Problem](https://leetcode.com/problems/word-break/) 
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) 
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)  and  [House Robber II](https://leetcode.com/problems/house-robber-ii/) 
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/) 
-- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/) 
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/) 
+- [x] [Word Break Problem](https://leetcode.com/problems/word-break/) 
+- [x] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) 
+- [x] [House Robber](https://leetcode.com/problems/house-robber/)
+- [x] [House Robber II](https://leetcode.com/problems/house-robber-ii/) 
+- [x] [Decode Ways](https://leetcode.com/problems/decode-ways/) 
+- [x] [Unique Paths](https://leetcode.com/problems/unique-paths/) 
+- [x] [Jump Game](https://leetcode.com/problems/jump-game/) 
 
 # Geometry
 - [ ] [From Theory To Practice: Representing Graphs](https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38) 
