@@ -22,13 +22,13 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 
 # Progress
 - [x] [Array](#Array) 11 / 11 problems
-- [ ] [Dynamic Programming](#dynamic-programming) 10 / 12 problems
+- [ ] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
 - [ ] [String](#String) 5 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [ ] [Math](#Math)  0 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 26 / 50
+Grand total: 28 / 50
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -70,8 +70,8 @@ Related:
 - [x] [0/1 Knapsack](http://www.geeksforgeeks.org/knapsack-problem/) 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/) 
-- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) 
-- [ ] [Longest Common Subsequence](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms) 
+- [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) 
+- [x] [Longest Common Subsequence](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms) 
 - [x] [Word Break Problem](https://leetcode.com/problems/word-break/) 
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) 
 - [x] [House Robber](https://leetcode.com/problems/house-robber/)
