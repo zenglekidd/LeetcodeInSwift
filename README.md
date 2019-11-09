@@ -22,13 +22,13 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 
 # Progress
 - [x] [Array](#Array) 11 / 11 problems
-- [ ] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
+- [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
 - [ ] [String](#String) 5 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
-- [ ] [Math](#Math)  0 / 3 problems
+- [ ] [Math](#Math)  2 / 3 problems
 - [ ] [Linked list](#linked-list) 0 / 6 problems
 
-Grand total: 28 / 50
+Grand total: 30 / 50
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -108,8 +108,8 @@ Related:
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/) 
 
 # Math
-- [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/) 
-- [ ] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) 
+- [x] [Pow(x, n)](https://leetcode.com/problems/powx-n/) 
+- [x] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) 
 - [ ] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) 
 
 # Matrix
