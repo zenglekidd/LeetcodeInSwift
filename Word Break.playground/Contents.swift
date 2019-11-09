@@ -1,3 +1,4 @@
+import Foundation
 /*
  139. Word Break
  Medium
@@ -26,7 +27,21 @@
 
 class Solution {
     func wordBreak(_ s: String, _ wordDict: [String]) -> Bool {
-        return true
+        let wordSet = Set(wordDict)
+        var results: [Bool] = Array(repeating: false, count: s.count + 1)
+        results[0] = true
+        
+        for i in 1 ... s.count {
+            for j in 0..<i {
+                let substring = String(s.prefix(i).suffix(i - j))
+                if results[j] && wordSet.contains(substring) {
+                    results[i] = true
+                    break
+                }
+            }
+        }
+        
+        return results[s.count]
     }
 }
 
@@ -48,7 +63,7 @@ class SolutionTests: XCTestCase {
         let results = solution.wordBreak("applepenapple", ["apple", "pen"])
         XCTAssertEqual(results, true)
     }
-    
+
     func testExample3() {
         let results = solution.wordBreak("catsandog", ["cats", "dog", "sand", "and", "cat"])
         XCTAssertEqual(results, false)
