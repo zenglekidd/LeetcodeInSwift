@@ -26,9 +26,9 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 - [ ] [String](#String) 5 / 14 problems
 - [ ] [Interval](#Interval) 0 / 4 problems
 - [x] [Math](#Math)  3 / 3 problems
-- [ ] [Linked list](#linked-list) 0 / 6 problems
+- [ ] [Linked list](#linked-list) 4 / 6 problems
 
-Grand total: 31 / 50
+Grand total: 35 / 50
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -100,17 +100,17 @@ Related:
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
 
 # Linked list
-- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) 
-- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) 
+- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) 
+- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) 
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 
-- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/) 
+- [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
+- [x] [Reorder List](https://leetcode.com/problems/reorder-list/) 
 
 # Math
 - [x] [Pow(x, n)](https://leetcode.com/problems/powx-n/) 
 - [x] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) 
-- [ ] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) 
+- [x] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) 
 
 # Matrix
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) 
