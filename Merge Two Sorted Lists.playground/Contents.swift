@@ -32,37 +32,37 @@ class Solution {
             return l1
         }
         
-        let head = l1
-        
+        // create a new node
+        // walk through two lists by comparsion
+        let beforeHead = ListNode(0)
+        var newHead: ListNode? = beforeHead
         var current1 = l1
         var current2 = l2
-        var current = current1
         
         while current1 != nil && current2 != nil {
             let next1 = current1?.next
             let next2 = current2?.next
             
-            if next1?.val > current2?.val {
-                current1?.next = next1
-                current = next1
+            if current1!.val < current2!.val {
+                newHead?.next = current1
+                current1 = next1
             } else {
-                current1?.next = current2
+                newHead?.next = current2
+                current2 = next2
             }
             
-            if next1 == nil {
-                current2?.next = next2
-                break;
-            } else {
-                current2?.next = next1
-            }
-                        
-            
-            
-            current1 = next1
-            current2 = next2
+            newHead = newHead?.next
+        }
+        
+        if current1 == nil{
+            newHead?.next = current2
+        }
+        
+        if current2 == nil {
+            newHead?.next = current1
         }
                 
-        return head
+        return beforeHead.next
     }
     
     func toDisplay(_ head: ListNode?) -> [Int] {
@@ -156,14 +156,14 @@ class SolutionTests: XCTestCase {
         let results = solution.mergeTwoLists(node1, node4)
         XCTAssertEqual(solution.toDisplay(results), [1])
     }
-//
-//    func testExample6() {
-//        let node1 = ListNode(2)
-//        let node4:ListNode? = nil
-//
-//        let results = solution.mergeTwoLists(node1, node4)
-//        XCTAssertEqual(solution.toDisplay(results), [2])
-//    }
+
+    func testExample6() {
+        let node1 = ListNode(2)
+        let node4:ListNode? = nil
+
+        let results = solution.mergeTwoLists(node1, node4)
+        XCTAssertEqual(solution.toDisplay(results), [2])
+    }
 }
 
 SolutionTests.defaultTestSuite.run()

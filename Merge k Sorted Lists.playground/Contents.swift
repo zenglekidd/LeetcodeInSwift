@@ -26,7 +26,60 @@ import Cocoa
 
 class Solution {
     func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
+        return partion(lists, start: 0, end: lists.count - 1)
+    }
+    
+    func partion(_ lists: [ListNode?], start: Int, end: Int) -> ListNode? {
+        if start == end { return lists[start] }
+        if start < end {
+            let middle = (start + end) / 2
+            let l1 = partion(lists, start: start, end: middle)
+            let l2 = partion(lists, start: middle+1, end: end)
+            return mergeTwoLists(l1, l2)
+        }
         return nil
+    }
+    
+    func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+        if l1 == nil {
+            return l2
+        }
+        
+        if l2 == nil {
+            return l1
+        }
+        
+        // create a new node
+        // walk through two lists by comparsion
+        let beforeHead = ListNode(0)
+        var newHead: ListNode? = beforeHead
+        var current1 = l1
+        var current2 = l2
+        
+        while current1 != nil && current2 != nil {
+            let next1 = current1?.next
+            let next2 = current2?.next
+            
+            if current1!.val < current2!.val {
+                newHead?.next = current1
+                current1 = next1
+            } else {
+                newHead?.next = current2
+                current2 = next2
+            }
+            
+            newHead = newHead?.next
+        }
+        
+        if current1 == nil{
+            newHead?.next = current2
+        }
+        
+        if current2 == nil {
+            newHead?.next = current1
+        }
+                
+        return beforeHead.next
     }
     
     func toDisplay(_ head: ListNode?) -> [Int] {
