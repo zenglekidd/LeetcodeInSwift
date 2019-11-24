@@ -94,10 +94,10 @@ Related:
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 
 
 # Interval
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)  and  [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
+- [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
 
 # Linked list
 - [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) 
