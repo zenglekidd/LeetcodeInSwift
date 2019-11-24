@@ -24,11 +24,11 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
 - [ ] [String](#String) 5 / 14 problems
-- [ ] [Interval](#Interval) 1 / 3 problems
+- [x] [Interval](#Interval) 3 / 3 problems
 - [x] [Math](#Math)  3 / 3 problems
 - [x] [Linked list](#linked-list) 6 / 6 problems
 
-Grand total: 38 / 49
+Grand total: 40 / 49
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
