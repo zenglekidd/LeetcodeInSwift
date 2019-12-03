@@ -23,12 +23,12 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 # Progress
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
-- [ ] [String](#String) 5 / 14 problems
+- [ ] [String](#String) 7 / 14 problems
 - [x] [Interval](#Interval) 3 / 3 problems
 - [x] [Math](#Math)  3 / 3 problems
 - [x] [Linked list](#linked-list) 6 / 6 problems
 
-Grand total: 40 / 49
+Grand total: 42 / 49
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -128,10 +128,10 @@ Related:
 - [x] [Rabin Karp](https://www.wikiwand.com/en/Rabin%E2%80%93Karp_algorithm) , which conducts efficient searches of substrings, using a rolling hash
 - [x] [KMP](https://www.wikiwand.com/en/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) , which conducts efficient searches of substrings
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) 
+- [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) 
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) 
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram) 
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) 
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
