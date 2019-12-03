@@ -24,11 +24,11 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
 - [ ] [String](#String) 5 / 14 problems
-- [ ] [Interval](#Interval) 1 / 3 problems
+- [x] [Interval](#Interval) 3 / 3 problems
 - [x] [Math](#Math)  3 / 3 problems
 - [x] [Linked list](#linked-list) 6 / 6 problems
 
-Grand total: 38 / 49
+Grand total: 40 / 49
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -94,10 +94,10 @@ Related:
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 
 
 # Interval
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)  and  [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
+- [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
 
 # Linked list
 - [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) 
