@@ -1,5 +1,5 @@
 # LeetcodeInSwift
-This repo contains Leetcode challenge solutions in Swift Playground. README.md contains recommended Leetcode problems(with link) to take if you are starting fresh on [leetcode.com](https://leetcode.com). Source: [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
+Leetcode challenge solutions in Swift Playground. Based on Source: [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 
 ---
 ##### Table of Contents  
