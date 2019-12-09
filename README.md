@@ -42,7 +42,8 @@ Related:
 - [x] E. W. Dijkstra, Some beautiful arguments using mathematical induction, Actu Informat. 13 (1980) 1-8.
 
 ## Sequence
-- [ ] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
+- [x] [How to Solve Sliding Window Problems - Outco - Medium](https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66)
+- [x] Master the  [sliding window technique](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)  that applies to many substring or subarray problems.
 
 ## Array
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) 
