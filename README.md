@@ -23,7 +23,7 @@ This repo contains Leetcode challenge solutions in Swift Playground. README.md c
 # Progress
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
-- [ ] [String](#String) 7 / 14 problems
+- [ ] [String](#String) 8 / 14 problems
 - [x] [Interval](#Interval) 3 / 3 problems
 - [x] [Math](#Math)  3 / 3 problems
 - [x] [Linked list](#linked-list) 6 / 6 problems
@@ -133,7 +133,7 @@ Related:
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) 
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) 
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) 
