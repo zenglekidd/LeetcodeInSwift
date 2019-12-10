@@ -23,12 +23,12 @@ Leetcode challenge solutions in Swift Playground. Order of the problems based on
 # Progress
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
-- [ ] [String](#String) 9 / 14 problems
+- [ ] [String](#String) 11 / 14 problems
 - [x] [Interval](#Interval) 3 / 3 problems
 - [x] [Math](#Math)  3 / 3 problems
 - [x] [Linked list](#linked-list) 6 / 6 problems
 
-Grand total: 44 / 49
+Grand total: 46 / 49
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -136,8 +136,8 @@ Related:
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
-- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) 
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) 
+- [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) 
+- [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) 
 
 # Tree
 - [ ] [Leaf It Up To Binary Trees](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d) 
