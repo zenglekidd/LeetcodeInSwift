@@ -23,12 +23,12 @@ Leetcode challenge solutions in Swift Playground. Order of the problems based on
 # Progress
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
-- [ ] [String](#String) 11 / 14 problems
+- [ ] [String](#String) 11 / 13 problems
 - [x] [Interval](#Interval) 3 / 3 problems
 - [x] [Math](#Math)  3 / 3 problems
 - [x] [Linked list](#linked-list) 6 / 6 problems
 
-Grand total: 46 / 49
+Grand total: 46 / 48
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -97,7 +97,7 @@ Related:
 # Interval
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
-- [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)  and  [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 
+  ~~[Meeting Rooms]and  [Meeting Rooms II]~~
 - [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
 
 # Linked list
@@ -131,7 +131,7 @@ Related:
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) 
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) 
-- [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 
+   ~~[Encode and Decode Strings]~~
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) 
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
