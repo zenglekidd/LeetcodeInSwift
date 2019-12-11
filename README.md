@@ -133,7 +133,7 @@ Related:
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) 
    ~~[Encode and Decode Strings]~~
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) 
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) 
