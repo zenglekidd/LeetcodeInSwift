@@ -35,17 +35,22 @@ class Solution {
                 }
             }
             
-            print(repeatCounts, counter, left, right)
-            if counter == 0 && isEmpty(repeatCounts) {
-                while repeatCounts[sChars[left]] == nil || repeatCounts[sChars[left]]! <= 0 {
-                    left += 1
-                    print("left++", repeatCounts, counter, left, right)
-                    if repeatCounts[sChars[left]] != nil {
+//            print(repeatCounts, counter, left, right)
+            if counter == 0 {
+                while repeatCounts[sChars[left]] == nil || repeatCounts[sChars[left]]! < 0 {
+                    if repeatCounts[sChars[left]] == nil {
+                        left += 1
+                        continue
+                    }
+                    
+//                    print("left++", repeatCounts, counter, left, right)
+                    if repeatCounts[sChars[left]]! < 0 {
                         repeatCounts[sChars[left]]! += 1
+                        left += 1
                     }
                 }
                 
-                print("hahahhahh", repeatCounts, counter, left, right)
+//                print("hahahhahh", repeatCounts, counter, left, right)
     
                 // founded
                 if shortest.1 == Int.max {
@@ -63,19 +68,10 @@ class Solution {
                 counter += 1
                 left += 1
                 
-                print("xuxuxu", repeatCounts, counter, left, right)
+//                print("xuxuxu", repeatCounts, counter, left, right)
             }
         }
         return (shortest.1 == Int.max) ? "" : String(sChars[shortest.0 ... shortest.1])
-    }
-    
-    func isEmpty(_ counts: [Character: Int]) -> Bool {
-        for (_,c) in counts {
-            if c > 0 {
-                return false
-            }
-        }
-        return true
     }
 }
 
@@ -93,20 +89,20 @@ class SolutionTests: XCTestCase {
         XCTAssertEqual(results, "BANC")
     }
 
-//    func testExample2() {
-//        let results = solution.minWindow("a", "a")
-//        XCTAssertEqual(results, "a")
-//    }
-//
-//    func testExample3() {
-//        let results = solution.minWindow("ab", "b")
-//        XCTAssertEqual(results, "b")
-//    }
-//
-//    func testExample4() {
-//        let results = solution.minWindow("bba", "ab")
-//        XCTAssertEqual(results, "ba")
-//    }
+    func testExample2() {
+        let results = solution.minWindow("a", "a")
+        XCTAssertEqual(results, "a")
+    }
+
+    func testExample3() {
+        let results = solution.minWindow("ab", "b")
+        XCTAssertEqual(results, "b")
+    }
+
+    func testExample4() {
+        let results = solution.minWindow("bba", "ab")
+        XCTAssertEqual(results, "ba")
+    }
 }
 
 SolutionTests.defaultTestSuite.run()
