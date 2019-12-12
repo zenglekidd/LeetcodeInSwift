@@ -28,6 +28,7 @@ Stage 1 (Finished in 30 days)
 - [x] [Interval](#Interval) 3 / 3 problems
 - [x] [Math](#Math)  3 / 3 problems
 - [x] [Linked list](#linked-list) 6 / 6 problems
+
 Total: 48 / 48
 
 Stage 2
@@ -37,6 +38,7 @@ Stage 2
 - [ ] [Binary](#Binary) 0 / 6 problems
 - [ ] [Matrix](#Matrix) 0 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
+
 Total: 7 / 44
 
 ## Paper
