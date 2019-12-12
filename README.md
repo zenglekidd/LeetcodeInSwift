@@ -21,14 +21,23 @@ Leetcode challenge solutions in Swift Playground. Order of the problems based on
 ---
 
 # Progress
+Stage 1 (Finished in 30 days)
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
 - [x] [String](#String) 13 / 13 problems
 - [x] [Interval](#Interval) 3 / 3 problems
 - [x] [Math](#Math)  3 / 3 problems
 - [x] [Linked list](#linked-list) 6 / 6 problems
+Total: 48 / 48
 
-Grand total: 48 / 48
+Stage 2
+- [ ] [Tree](#tree) 7 / 17 problems
+- [ ] [Heap](#Heap) 0 / 4 problems
+- [ ] [Geometry](#Geometry) 0 / 11 problems
+- [ ] [Binary](#Binary) 0 / 6 problems
+- [ ] [Matrix](#Matrix) 0 / 4 problems
+- [ ] [Recursion](#Recursion) 0 / 2 problems
+Total: 7 / 44
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -142,14 +151,15 @@ Related:
 - [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) 
 
 # Tree
-- [ ] [Leaf It Up To Binary Trees](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d) 
-- [ ] [Trying to Understand Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014) 
-- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/articles/implement-trie-prefix-tree/) 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) 
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/) 
-- [ ] [Invert or Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 
+- [x] [Leaf It Up To Binary Trees](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d) 
+- [x] [Trying to Understand Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014) 
+- [x] [Implement Trie (Prefix Tree)](https://leetcode.com/articles/implement-trie-prefix-tree/) 
+
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) 
+- [x] [Same Tree](https://leetcode.com/problems/same-tree/) 
+- [x] [Invert or Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) 
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) 
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) 
