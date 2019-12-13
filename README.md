@@ -32,14 +32,14 @@ Stage 1 (Finished in 30 days)
 Total: 48 / 48
 
 Stage 2
-- [ ] [Tree](#tree) 8 / 17 problems
+- [ ] [Tree](#tree) 10 / 17 problems
 - [ ] [Heap](#Heap) 0 / 4 problems
 - [ ] [Geometry](#Geometry) 0 / 11 problems
 - [ ] [Binary](#Binary) 0 / 6 problems
 - [ ] [Matrix](#Matrix) 0 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
 
-Total: 8 / 44
+Total: 10 / 44
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -163,8 +163,8 @@ Related:
 - [x] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) 
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) 
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) 
+- [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) 
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) 
 - [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) 
