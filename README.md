@@ -32,14 +32,14 @@ Stage 1 (Finished in 30 days)
 Total: 48 / 48
 
 Stage 2
-- [ ] [Tree](#tree) 10 / 17 problems
+- [ ] [Tree](#tree) 11 / 17 problems
 - [ ] [Heap](#Heap) 0 / 4 problems
 - [ ] [Geometry](#Geometry) 0 / 11 problems
 - [ ] [Binary](#Binary) 0 / 6 problems
 - [ ] [Matrix](#Matrix) 0 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
 
-Total: 10 / 44
+Total: 11 / 44
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -165,7 +165,7 @@ Related:
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) 
 - [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) 
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 
+- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) 
 - [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) 
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) 
