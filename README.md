@@ -32,14 +32,14 @@ Stage 1 (Finished in 30 days)
 Total: 48 / 48
 
 Stage 2
-- [ ] [Tree](#tree) 11 / 17 problems
+- [ ] [Tree](#tree) 13 / 17 problems
 - [ ] [Heap](#Heap) 0 / 4 problems
 - [ ] [Geometry](#Geometry) 0 / 11 problems
 - [ ] [Binary](#Binary) 0 / 6 problems
 - [ ] [Matrix](#Matrix) 0 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
 
-Total: 11 / 44
+Total: 13 / 44
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
