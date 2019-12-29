@@ -44,10 +44,6 @@ Total: 15 / 44
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
 
-Related:
-* [Maximum Subarray](#Array)
-* 'Data Structures and Algorithms' undergraduate book by Aho, Hop- croft, and Ullman (Chapter10 on "Algorithm Design Techniques")
-
 - [x] 'A Note on the Standard Strategy for Developing Loop Invariants and Loops' by David Gries (1982) (ScienceofComputerProgramming2,pp. 207- 214)
 
 - [x] E. W. Dijkstra, Some beautiful arguments using mathematical induction, Actu Informat. 13 (1980) 1-8.
