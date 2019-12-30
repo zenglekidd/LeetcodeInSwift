@@ -23,9 +23,8 @@
 import Foundation
 
 class Trie: CustomStringConvertible {
-    var hasCompleteWord: Bool = false
+    var isCompleteWord: Bool = false
     var children: [Character: Trie] = [:]
-    var val: Character? // Only root has a nil value
 
     /** Initialize your data structure here. */
     init() {
@@ -33,103 +32,60 @@ class Trie: CustomStringConvertible {
     }
     
     var description: String {
-        if children.isEmpty {
-            return "current: \(val ?? "$"), ended. Empty children.\n"
-        } else {
-            var result = ""
-            if hasCompleteWord {
-                result = "current: \(val ?? "$"), ended \n"
-            } else {
-                result = "current: \(val ?? "$") \n"
-            }
-
-            for key in children.keys.sorted() {
-                let t = children[key]!
-                result.append(t.description)
-            }
-            
-            return result
+        var result = ""
+        if isCompleteWord { result += "*** ended ***\n"}
+        for key in children.keys.sorted() {
+            result += "current: \(key) \n"
+            let t = children[key]!
+            result += t.description
         }
+        
+        return result
     }
     
     /** Inserts a word into the trie. */
     func insert(_ word: String) {
-        if word.isEmpty {
-            return
-        }
-        
-        let first = word.first!
-        if word.count == 1 {
-            if children.keys.contains(first) {
-                children[first]!.hasCompleteWord = true
-                children[first]!.insert("")
-            } else {
-                let child = Trie()
-                child.val = first
-                child.hasCompleteWord = true
-                children[first] = child
-            }
-            return
-        }
-        
+        if word.isEmpty { return }
         
         var currentWord = word
-        currentWord.removeFirst()
-        
-        if children.keys.contains(first) {
-            children[first]!.insert(currentWord)
-        } else {
-            let child = Trie()
-            child.val = first
-            children[first] = child
-            child.insert(currentWord)
+        let first = currentWord.removeFirst()
+
+        let child = children[first] ?? Trie()
+        children[first] = child
+        child.insert(currentWord)
+        if word.count == 1 {
+            child.isCompleteWord = true
         }
     }
     
     /** Returns if the word is in the trie. */
     func search(_ word: String) -> Bool {
-        if word.isEmpty {
-            return true
+        if word.isEmpty { return true }
+        
+        guard let child = children[word.first!] else {
+            return false
         }
         
         if word.count == 1 {
-            return children.keys.contains(word.first!) && children[word.first!]!.hasCompleteWord
+            return child.isCompleteWord
         }
         
-        if children.isEmpty && word.count > 1 {
-            return false
-        }
-        
-        if children.keys.contains(word.first!) == false {
-            return false
-        } else {
-            var currentWord = word
-            currentWord.removeFirst()
-            return children[word.first!]!.search(currentWord)
-        }
+        var currentWord = word
+        currentWord.removeFirst()
+        return child.search(currentWord)
     }
     
     /** Returns if there is any word in the trie that starts with the given prefix. */
     func startsWith(_ prefix: String) -> Bool {
-        if prefix.isEmpty {
-            return true
-        }
+        if prefix.isEmpty { return true }
         
-        if prefix.count == 1 {
-            return children.keys.contains(prefix.first!)
-        }
-        
-        if children.isEmpty && prefix.count > 1 {
+        guard let child = children[prefix.first!] else {
             return false
         }
         
-        if children.keys.contains(prefix.first!) == false {
-            return false
-        } else {
-            var currentWord = prefix
-            currentWord.removeFirst()
-            return children[prefix.first!]!.startsWith(currentWord)
-        }
+        var currentWord = prefix
+        currentWord.removeFirst()
+        return child.startsWith(currentWord)
     }
 }
 
@@ -154,32 +110,33 @@ class SolutionTests: XCTestCase {
         solution = Solution()
     }
     
-//    func testExample1() {
-//
-//        let trie = Trie()
-//
-//        trie.insert("apple")
-//        XCTAssertEqual(trie.search("apple"), true) // returns true
-//        XCTAssertEqual(trie.search("app"), false)   // returns false
-//        XCTAssertEqual(trie.startsWith("app"), true) // returns true
-//        trie.insert("a");
-//        XCTAssertEqual(trie.search("app"), true)   // returns true
-//        print(trie)
-//    }
+    func testExample1() {
 
-//    func testExample2() {
-//
-//        let trie = Trie()
-//
-//        trie.insert("hello")
-//        XCTAssertEqual(trie.search("hell"), false) // returns false
-//        XCTAssertEqual(trie.search("helloa"), false)   // returns false
-//        XCTAssertEqual(trie.search("hello"), true)   // returns true
-//        XCTAssertEqual(trie.startsWith("app"), false) // returns false
-//        XCTAssertEqual(trie.startsWith("hell"), true)   // returns true
-//        print(trie)
-//    }
-    
+        let trie = Trie()
+
+        trie.insert("apple")
+        XCTAssertEqual(trie.search("apple"), true) // returns true
+        XCTAssertEqual(trie.search("app"), false)   // returns false
+        XCTAssertEqual(trie.search("appleaaa"), false)   // returns false
+        XCTAssertEqual(trie.startsWith("app"), true) // returns true
+        trie.insert("app");
+        XCTAssertEqual(trie.search("app"), true)   // returns true
+        print(trie)
+    }
+
+    func testExample2() {
+
+        let trie = Trie()
+
+        trie.insert("hello")
+        XCTAssertEqual(trie.search("hell"), false) // returns false
+        XCTAssertEqual(trie.search("helloa"), false)   // returns false
+        XCTAssertEqual(trie.search("hello"), true)   // returns true
+        XCTAssertEqual(trie.startsWith("app"), false) // returns false
+        XCTAssertEqual(trie.startsWith("hell"), true)   // returns true
+        print(trie)
+    }
+
     func testExample3() {
         let trie = Trie()
         trie.insert("app")
