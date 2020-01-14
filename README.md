@@ -174,8 +174,8 @@ Total: 17 / 44
 - [x] [Word Search](https://leetcode.com/problems/word-search/) 
 
 # Heap
-- [ ] [Learning to Love Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 
+- [x] [Learning to Love Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) 
+- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) 
 
