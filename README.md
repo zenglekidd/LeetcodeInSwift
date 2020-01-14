@@ -32,14 +32,14 @@ Stage 1 (Finished in 30 days)
 Total: 48 / 48
 
 Stage 2
-- [ ] [Tree](#tree) 15 / 17 problems
+- [x] [Tree](#tree) 17 / 17 problems
 - [ ] [Heap](#Heap) 0 / 4 problems
 - [ ] [Geometry](#Geometry) 0 / 11 problems
 - [ ] [Binary](#Binary) 0 / 6 problems
 - [ ] [Matrix](#Matrix) 0 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
 
-Total: 15 / 44
+Total: 17 / 44
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -104,7 +104,9 @@ Total: 15 / 44
 # Interval
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
+
   ~~[Meeting Rooms]and  [Meeting Rooms II]~~
+  
 - [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
 
 # Linked list
@@ -158,7 +160,9 @@ Total: 15 / 44
 - [x] [Invert or Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 
 - [x] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) 
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) 
+
+~~[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)~~
+
 - [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) 
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 
@@ -166,7 +170,8 @@ Total: 15 / 44
 - [x] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) 
 - [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) 
 - [x] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design) 
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/) 
+- [x] [Word Search II](https://leetcode.com/problems/word-search-ii/) 
+- [x] [Word Search](https://leetcode.com/problems/word-search/) 
 
 # Heap
 - [ ] [Learning to Love Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) 
