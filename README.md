@@ -33,13 +33,13 @@ Total: 48 / 48
 
 Stage 2
 - [x] [Tree](#tree) 17 / 17 problems
-- [ ] [Heap](#Heap) 0 / 4 problems
+- [ ] [Heap](#Heap) 3 / 4 problems
 - [ ] [Geometry](#Geometry) 0 / 11 problems
 - [ ] [Binary](#Binary) 0 / 6 problems
 - [ ] [Matrix](#Matrix) 0 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
 
-Total: 17 / 44
+Total: 20 / 44
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -176,7 +176,7 @@ Total: 17 / 44
 # Heap
 - [x] [Learning to Love Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) 
 - [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) 
 
 
