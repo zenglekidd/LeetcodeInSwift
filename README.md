@@ -32,14 +32,14 @@ Stage 1 (Finished in 30 days)
 Total: 48 / 48
 
 Stage 2
-- [ ] [Tree](#tree) 15 / 17 problems
-- [ ] [Heap](#Heap) 0 / 4 problems
-- [ ] [Geometry](#Geometry) 0 / 11 problems
-- [ ] [Binary](#Binary) 0 / 6 problems
+- [x] [Tree](#tree) 17 / 17 problems
+- [x] [Heap](#Heap) 4 / 4 problems
+- [x] [Geometry](#Geometry) 8 / 8 problems
+- [x] [Binary](#Binary) 6 / 6 problems
 - [ ] [Matrix](#Matrix) 0 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
 
-Total: 15 / 44
+Total: 35 / 41
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -66,12 +66,12 @@ Total: 15 / 44
 - [x] [Maximum Average Subarray I - LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/)
 
 # Binary
-- [ ] [Bits, Bytes, Building With Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa) 
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) 
-- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) 
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/) 
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/) 
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) 
+- [x] [Bits, Bytes, Building With Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa) 
+- [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) 
+- [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) 
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/) 
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/) 
+- [x] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) 
 
 # Dynamic Programming
 - [x] [Demystifying Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296) 
@@ -89,22 +89,24 @@ Total: 15 / 44
 - [x] [Jump Game](https://leetcode.com/problems/jump-game/) 
 
 # Geometry
-- [ ] [From Theory To Practice: Representing Graphs](https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38) 
-- [ ] [Deep Dive Through A Graph: DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13) 
-- [ ] [Going Broad In A Graph: BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255) 
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/) 
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/) 
-- [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) 
-- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) 
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/) 
-- [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) 
-- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) 
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 
+- [x] [From Theory To Practice: Representing Graphs](https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38) 
+- [x] [Deep Dive Through A Graph: DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13) 
+- [x] [Going Broad In A Graph: BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255) 
+- [x] [Clone Graph](https://leetcode.com/problems/clone-graph/) 
+- [x] [Course Schedule](https://leetcode.com/problems/course-schedule/) 
+- [ ] ~~[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/~~
+- [x] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) 
+- [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/) 
+- [ ] ~~[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/~~
+- [ ] ~~[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/~~
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 
 
 # Interval
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
+
   ~~[Meeting Rooms]and  [Meeting Rooms II]~~
+  
 - [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
 
 # Linked list
@@ -158,7 +160,9 @@ Total: 15 / 44
 - [x] [Invert or Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 
 - [x] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) 
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) 
+
+~~[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)~~
+
 - [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) 
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 
@@ -166,13 +170,14 @@ Total: 15 / 44
 - [x] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) 
 - [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) 
 - [x] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design) 
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/) 
+- [x] [Word Search II](https://leetcode.com/problems/word-search-ii/) 
+- [x] [Word Search](https://leetcode.com/problems/word-search/) 
 
 # Heap
-- [ ] [Learning to Love Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
-- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) 
+- [x] [Learning to Love Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) 
+- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
+- [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) 
 
 
 ## References
