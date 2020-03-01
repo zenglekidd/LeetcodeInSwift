@@ -34,12 +34,12 @@ Total: 48 / 48
 Stage 2
 - [x] [Tree](#tree) 17 / 17 problems
 - [x] [Heap](#Heap) 4 / 4 problems
-- [ ] [Geometry](#Geometry) 7 / 11 problems
+- [ ] [Geometry](#Geometry) 8 / 8 problems
 - [ ] [Binary](#Binary) 0 / 6 problems
 - [ ] [Matrix](#Matrix) 0 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
 
-Total: 28 / 44
+Total: 29 / 41
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -94,12 +94,12 @@ Total: 28 / 44
 - [x] [Going Broad In A Graph: BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255) 
 - [x] [Clone Graph](https://leetcode.com/problems/clone-graph/) 
 - [x] [Course Schedule](https://leetcode.com/problems/course-schedule/) 
-- [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) 
+- [ ] ~~[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/~~
 - [x] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) 
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/) 
-- [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) 
-- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) 
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 
+- [ ] ~~[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/~~
+- [ ] ~~[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/~~
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 
 
 # Interval
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
