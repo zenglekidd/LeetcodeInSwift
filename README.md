@@ -34,12 +34,12 @@ Total: 48 / 48
 Stage 2
 - [x] [Tree](#tree) 17 / 17 problems
 - [x] [Heap](#Heap) 4 / 4 problems
-- [ ] [Geometry](#Geometry) 8 / 8 problems
-- [ ] [Binary](#Binary) 0 / 6 problems
+- [x] [Geometry](#Geometry) 8 / 8 problems
+- [x] [Binary](#Binary) 6 / 6 problems
 - [ ] [Matrix](#Matrix) 0 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
 
-Total: 29 / 41
+Total: 35 / 41
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -66,12 +66,12 @@ Total: 29 / 41
 - [x] [Maximum Average Subarray I - LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/)
 
 # Binary
-- [ ] [Bits, Bytes, Building With Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa) 
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) 
-- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) 
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/) 
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/) 
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) 
+- [x] [Bits, Bytes, Building With Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa) 
+- [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) 
+- [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) 
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/) 
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/) 
+- [x] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) 
 
 # Dynamic Programming
 - [x] [Demystifying Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296) 
