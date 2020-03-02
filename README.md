@@ -36,10 +36,10 @@ Stage 2
 - [x] [Heap](#Heap) 4 / 4 problems
 - [x] [Geometry](#Geometry) 8 / 8 problems
 - [x] [Binary](#Binary) 6 / 6 problems
-- [ ] [Matrix](#Matrix) 0 / 4 problems
+- [ ] [Matrix](#Matrix) 2 / 4 problems
 - [ ] [Recursion](#Recursion) 0 / 2 problems
 
-Total: 35 / 41
+Total: 37 / 41
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -123,8 +123,8 @@ Total: 35 / 41
 - [x] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) 
 
 # Matrix
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) 
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) 
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) 
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) 
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/) 
 - [ ] [Word Search](https://leetcode.com/problems/word-search/) 
 
