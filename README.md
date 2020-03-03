@@ -36,10 +36,10 @@ Stage 2
 - [x] [Heap](#Heap) 4 / 4 problems
 - [x] [Geometry](#Geometry) 8 / 8 problems
 - [x] [Binary](#Binary) 6 / 6 problems
-- [ ] [Matrix](#Matrix) 2 / 4 problems
-- [ ] [Recursion](#Recursion) 0 / 2 problems
+- [x] [Matrix](#Matrix) 4 / 4 problems
+- [ ] [Recursion](#Recursion) 1 / 2 problems
 
-Total: 37 / 41
+Total: 40 / 41
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -104,9 +104,7 @@ Total: 37 / 41
 # Interval
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/) 
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
-
-  ~~[Meeting Rooms]and  [Meeting Rooms II]~~
-  
+- [ ] ~~[Meeting Rooms]and  [Meeting Rooms II]~~  
 - [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
 
 # Linked list
@@ -125,12 +123,13 @@ Total: 37 / 41
 # Matrix
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) 
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) 
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/) 
-- [ ] [Word Search](https://leetcode.com/problems/word-search/) 
+- [x] [Rotate Image](https://leetcode.com/problems/rotate-image/) 
+- [x] [Word Search](https://leetcode.com/problems/word-search/) 
 
 # Recursion
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)  and  [Subsets II](https://leetcode.com/problems/subsets-ii/) 
-- [ ] [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) 
+- [x] [Subsets](https://leetcode.com/problems/subsets/)
+- [ ] [Subsets II](https://leetcode.com/problems/subsets-ii/) 
+- [ ] ~~[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/~~
 
 # String
 - [x] [Trie/Prefix Tree](https://www.wikiwand.com/en/Trie) 
