@@ -2,23 +2,6 @@
 Leetcode challenge solutions in Swift Playground. Order of the problems based on Source: [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 
 ---
-##### Table of Contents  
-* [Paper](#Paper)
-* [Array](#Array)
-* [Binary](#Binary) 
-* [Dynamic Programming](#dynamic-programming) 
-* [Geometry](#Geometry) 
-* [Interval](#Interval) 
-* [Linked list](#linked-list) 
-* [Math](#Math) 
-* [Matrix](#Matrix) 
-* [Recursion](#Recursion) 
-* [String](#String) 
-* [Tree](#Tree) 
-* [Heap](#Heap) 
-* [References](#References) 
-
----
 
 # Progress
 Stage 1 (Finished in Day 30)
@@ -42,8 +25,7 @@ Stage 2 (Finished in Day 45)
 Total: 41 / 41
 
 Stage 3
-- [ ] [Easy Problems - LeetCode](https://leetcode.com/problemset/all/?difficulty=Easy)
-- [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/)
+- [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/) (Start: 43 / 100 Solved, Current: 45 / 100 Solved)
 - [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/)
 - [ ] [Sliding Window - LeetCode](https://leetcode.com/tag/sliding-window/)
 - [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/)
