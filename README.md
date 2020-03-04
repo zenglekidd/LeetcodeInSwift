@@ -21,7 +21,7 @@ Leetcode challenge solutions in Swift Playground. Order of the problems based on
 ---
 
 # Progress
-Stage 1 (Finished in 30 days)
+Stage 1 (Finished in Day 30)
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
 - [x] [String](#String) 13 / 13 problems
@@ -31,15 +31,25 @@ Stage 1 (Finished in 30 days)
 
 Total: 48 / 48
 
-Stage 2
+Stage 2 (Finished in Day 45)
 - [x] [Tree](#tree) 17 / 17 problems
 - [x] [Heap](#Heap) 4 / 4 problems
 - [x] [Geometry](#Geometry) 8 / 8 problems
 - [x] [Binary](#Binary) 6 / 6 problems
 - [x] [Matrix](#Matrix) 4 / 4 problems
-- [ ] [Recursion](#Recursion) 1 / 2 problems
+- [x] [Recursion](#Recursion) 1 / 2 problems
 
-Total: 40 / 41
+Total: 41 / 41
+
+Stage 3
+- [ ] [Easy Problems - LeetCode](https://leetcode.com/problemset/all/?difficulty=Easy)
+- [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/)
+- [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/)
+- [ ] [Sliding Window - LeetCode](https://leetcode.com/tag/sliding-window/)
+- [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/)
+- [ ] [Divide and Conquer - LeetCode](https://leetcode.com/tag/divide-and-conquer/)
+- [ ] [Graph - LeetCode](https://leetcode.com/tag/graph/)
+- [ ] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) & [Depth-first Search - LeetCode](https://leetcode.com/tag/depth-first-search/)
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
