@@ -26,7 +26,7 @@ Total: 41 / 41
 
 Stage 3 (Leetcode# <= 200)
 - [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/) (Start: 43 / 100 Solved, Current: 50 / 100 Solved)
-- [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/)
+- [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/) (Start: 6 / 53 Solved, Current: 6 / 53 Solved)
 - [ ] [Sliding Window - LeetCode](https://leetcode.com/tag/sliding-window/)
 - [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/)
 - [ ] [Divide and Conquer - LeetCode](https://leetcode.com/tag/divide-and-conquer/)
