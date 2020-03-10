@@ -2,23 +2,6 @@
 Leetcode challenge solutions in Swift Playground. Order of the problems based on Source: [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 
 ---
-##### Table of Contents  
-* [Paper](#Paper)
-* [Array](#Array)
-* [Binary](#Binary) 
-* [Dynamic Programming](#dynamic-programming) 
-* [Geometry](#Geometry) 
-* [Interval](#Interval) 
-* [Linked list](#linked-list) 
-* [Math](#Math) 
-* [Matrix](#Matrix) 
-* [Recursion](#Recursion) 
-* [String](#String) 
-* [Tree](#Tree) 
-* [Heap](#Heap) 
-* [References](#References) 
-
----
 
 # Progress
 Stage 1 (Finished in Day 30)
@@ -41,10 +24,9 @@ Stage 2 (Finished in Day 45)
 
 Total: 41 / 41
 
-Stage 3
-- [ ] [Easy Problems - LeetCode](https://leetcode.com/problemset/all/?difficulty=Easy)
-- [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/)
-- [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/)
+Stage 3 (Leetcode# <= 200)
+- [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/) (Start: 43 / 100 Solved, Current: 50 / 100 Solved)
+- [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/) (Start: 6 / 53 Solved, Current: 6 / 53 Solved)
 - [ ] [Sliding Window - LeetCode](https://leetcode.com/tag/sliding-window/)
 - [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/)
 - [ ] [Divide and Conquer - LeetCode](https://leetcode.com/tag/divide-and-conquer/)
