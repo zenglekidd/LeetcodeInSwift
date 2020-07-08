@@ -25,8 +25,8 @@ Stage 2 (Finished in Day 45)
 Total: 41 / 41
 
 Stage 3 (Leetcode# <= 200)
-- [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/) (Start: 43 / 100 Solved, Current: 77 / 100 Solved, Progress: 34 / 57)
-- [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/) (Start: 6 / 24 Solved, Current: 11 / 24 Solved, Progress: 5 / 18)
+- [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/) (Start: 43 / 100 Solved, Current: 79 / 100 Solved, Progress: 36 / 57)
+- [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/) (Start: 6 / 24 Solved, Current: 12 / 24 Solved, Progress: 6 / 18)
 - [x] [Sliding Window - LeetCode](https://leetcode.com/tag/sliding-window/) (Start: 2 / 2 Solved, Current: 2 / 2 Solved)
 - [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/) (Start: 11 / 27 Solved, Current: 11 / 27 Solved, Progress: 0 / 16)
 - [x] [Divide and Conquer - LeetCode](https://leetcode.com/tag/divide-and-conquer/) (Start: 4 / 4 Solved, Current: 4 / 4 Solved)
@@ -34,7 +34,7 @@ Stage 3 (Leetcode# <= 200)
 - [ ] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) (Start: 3 / 10 Solved, Current: 3 / 10 Solved, Progress: 0 / 7)
 - [ ] [Depth-first Search - LeetCode](https://leetcode.com/tag/depth-first-search/) (Start: 8 / 21 Solved, Current: 8 / 21 Solved, Progress: 0 / 13)
 
-Total: 46 / 111
+Total: 49 / 111
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
