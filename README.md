@@ -25,7 +25,7 @@ Stage 2 (Finished in Day 45)
 Total: 41 / 41
 
 Stage 3 (Leetcode# <= 200)
-- [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/) (Start: 43 / 100 Solved, Current: 93 / 100 Solved, Progress: 50 / 57)
+- [ ] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/) (Start: 43 / 100 Solved, Current: 98 / 100 Solved, Progress: 55 / 57)
 - [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/) (Start: 6 / 24 Solved, Current: 12 / 24 Solved, Progress: 6 / 18)
 - [x] [Sliding Window - LeetCode](https://leetcode.com/tag/sliding-window/) (Start: 2 / 2 Solved, Current: 2 / 2 Solved)
 - [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/) (Start: 11 / 27 Solved, Current: 11 / 27 Solved, Progress: 0 / 16)
