@@ -34,7 +34,7 @@ Stage 3 (Leetcode# <= 200)
 - [ ] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) (Start: 3 / 10 Solved, Current: 3 / 10 Solved, Progress: 0 / 7)
 - [ ] [Depth-first Search - LeetCode](https://leetcode.com/tag/depth-first-search/) (Start: 8 / 21 Solved, Current: 8 / 21 Solved, Progress: 0 / 13)
 
-Total: 63 / 111
+Total: 68 / 111
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
