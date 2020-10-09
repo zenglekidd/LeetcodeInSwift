@@ -31,7 +31,7 @@ Stage 3 (Leetcode# <= 200)
 - [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/) (Start: 11 / 27 Solved, Current: 15 / 27 Solved, Progress: 4 / 16)
 - [x] [Divide and Conquer - LeetCode](https://leetcode.com/tag/divide-and-conquer/) (Start: 4 / 4 Solved, Current: 4 / 4 Solved)
 - [x] [Graph - LeetCode](https://leetcode.com/tag/graph/) (Start: 1 / 1 Solved, Current: 1 / 1 Solved)
-- [ ] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) (Start: 3 / 10 Solved, Current: 3 / 10 Solved, Progress: 0 / 7)
+- [ ] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) (Start: 3 / 10 Solved, Current: 7 / 10 Solved, Progress: 4 / 7)
 - [ ] [Depth-first Search - LeetCode](https://leetcode.com/tag/depth-first-search/) (Start: 8 / 21 Solved, Current: 8 / 21 Solved, Progress: 0 / 13)
 
 Total: 70 / 111
