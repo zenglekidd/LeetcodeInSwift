@@ -31,10 +31,10 @@ Stage 3 (Leetcode# <= 200)
 - [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/) (Start: 11 / 27 Solved, Current: 15 / 27 Solved, Progress: 4 / 16)
 - [x] [Divide and Conquer - LeetCode](https://leetcode.com/tag/divide-and-conquer/) (Start: 4 / 4 Solved, Current: 4 / 4 Solved)
 - [x] [Graph - LeetCode](https://leetcode.com/tag/graph/) (Start: 1 / 1 Solved, Current: 1 / 1 Solved)
-- [ ] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) (Start: 3 / 10 Solved, Current: 8 / 10 Solved, Progress: 5 / 7)
+- [x] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) (Start: 3 / 10 Solved, Current: 10 / 10 Solved, Progress: 7 / 7)
 - [x] [Depth-first Search - LeetCode](https://leetcode.com/tag/depth-first-search/) (Start: 8 / 21 Solved, Current: 21 / 21 Solved, Progress: 13 / 13)
 
-Total: 91 / 111
+Total: 93 / 111
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
