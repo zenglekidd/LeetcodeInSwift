@@ -36,6 +36,16 @@ Stage 3 (Leetcode# <= 200)
 
 Total: 93 / 111
 
+Stage 4
+From a reference [here](https://leetcode.com/discuss/interview-experience/904425/facebook-amazon-apple-google-nyc-oct-2020-offerofferghostedoffer)
+- [ ] Tackle a topic at once and then go back and solve a bunch of related problems.
+- [ ] Made sure to do a lot of mock interviews. Almost 1 mock interview every other weekend or so.
+
+
+Topics:
+- [ ] Recursion
+- [ ] 2D Array connectivities
+
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
 
