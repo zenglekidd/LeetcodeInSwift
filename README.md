@@ -5,9 +5,9 @@ This is the tracking page for my personal Leetcode progress.
   
   - [x] [Stage 2](#stage-2) uses part II of problems from [the same guide][1]
 
-  - [x] [Stage 3](#stage-3) is personal wrap-ups which supplements stage 1&2 
+  - [x] [Stage 3](#stage-3) is a wrap-up which supplements stage 1&2 
 
-  - [ ] [Stage 4](#stage-4) references from a [post][2] on Leetcode discussions
+  - [ ] [Stage 4](#stage-4) is inspired from a [post][2] on Leetcode discussions
 
 ---
 
