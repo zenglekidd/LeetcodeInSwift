@@ -24,17 +24,27 @@ Stage 2 (Finished in Day 45)
 
 Total: 41 / 41
 
-Stage 3 (Leetcode# <= 200)
+Stage 3 (Leetcode# <= 200) (Finished in Day 99)
 - [x] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/) (Start: 43 / 100 Solved, Current: 100 / 100 Solved, Progress: 57 / 57)
-- [ ] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/) (Start: 6 / 21 Solved, Current: 11 / 21 Solved, Progress: 5 / 15)
+- [x] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/) (Start: 6 / 21 Solved, Current: 21 / 21 Solved, Progress: 15 / 15)
 - [x] [Sliding Window - LeetCode](https://leetcode.com/tag/sliding-window/) (Start: 2 / 2 Solved, Current: 2 / 2 Solved)
-- [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/) (Start: 11 / 27 Solved, Current: 15 / 27 Solved, Progress: 4 / 16)
+- [x] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/) (Start: 11 / 27 Solved, Current: 27 / 27 Solved, Progress: 16 / 16)
 - [x] [Divide and Conquer - LeetCode](https://leetcode.com/tag/divide-and-conquer/) (Start: 4 / 4 Solved, Current: 4 / 4 Solved)
 - [x] [Graph - LeetCode](https://leetcode.com/tag/graph/) (Start: 1 / 1 Solved, Current: 1 / 1 Solved)
-- [ ] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) (Start: 3 / 10 Solved, Current: 8 / 10 Solved, Progress: 5 / 7)
-- [ ] [Depth-first Search - LeetCode](https://leetcode.com/tag/depth-first-search/) (Start: 8 / 21 Solved, Current: 19 / 21 Solved, Progress: 11 / 13)
+- [x] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) (Start: 3 / 10 Solved, Current: 10 / 10 Solved, Progress: 7 / 7)
+- [x] [Depth-first Search - LeetCode](https://leetcode.com/tag/depth-first-search/) (Start: 8 / 21 Solved, Current: 21 / 21 Solved, Progress: 13 / 13)
 
-Total: 89 / 111
+Total: 111 / 111
+
+Stage 4
+From a reference [here](https://leetcode.com/discuss/interview-experience/904425/facebook-amazon-apple-google-nyc-oct-2020-offerofferghostedoffer)
+- [ ] Tackle a topic at once and then go back and solve a bunch of related problems.
+- [ ] Made sure to do a lot of mock interviews. Almost 1 mock interview every other weekend or so.
+
+
+Topics:
+- [ ] Recursion
+- [ ] 2D Array connectivities
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
@@ -42,6 +52,9 @@ Total: 89 / 111
 - [x] 'A Note on the Standard Strategy for Developing Loop Invariants and Loops' by David Gries (1982) (ScienceofComputerProgramming2,pp. 207- 214)
 
 - [x] E. W. Dijkstra, Some beautiful arguments using mathematical induction, Actu Informat. 13 (1980) 1-8.
+
+## Book
+- [x] 'Programming Pearls' by Jon Bentley
 
 ## Sequence
 - [x] [How to Solve Sliding Window Problems - Outco - Medium](https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66)
