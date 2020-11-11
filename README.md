@@ -1,7 +1,7 @@
 # LeetcodeInSwift
 This is the tracking page for my personal Leetcode progress.
 
-  - [x] [Stage 1](#Stage1) and 2 used problems from [The 30-minute guide to rocking your next coding interview][1]
+  - [x] [Stage 1](#Stage-1) and 2 used problems from [The 30-minute guide to rocking your next coding interview][1]
 
   - [x] Stage 3 is personal wrap-ups which supplements stage 1&2 
 
@@ -10,7 +10,7 @@ This is the tracking page for my personal Leetcode progress.
 ---
 
 # Progress
-## Stage1
+## Stage 1
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
 - [x] [String](#String) 13 / 13 problems
