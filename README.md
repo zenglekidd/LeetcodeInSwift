@@ -43,6 +43,7 @@ Stage 4 (Top 90% Speed)
   - [ ] Buy and Sell Stock (I - IV)
   - [ ] Recursion
   - [ ] 2D Array connectivities
+  - [ ] Graphs: Adjacency List and Adjacency Matrix
   
 - [ ] Made sure to do a lot of mock interviews. Almost 1 mock interview every other weekend or so.
 
