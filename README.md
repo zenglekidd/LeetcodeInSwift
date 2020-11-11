@@ -20,7 +20,7 @@ Stage 2 (Finished in Day 45)
 - [x] [Geometry](#Geometry) 8 / 8 problems
 - [x] [Binary](#Binary) 6 / 6 problems
 - [x] [Matrix](#Matrix) 4 / 4 problems
-- [x] [Recursion](#Recursion) 1 / 2 problems
+- [x] [Recursion](#Recursion) 2 / 2 problems
 
 Total: 41 / 41
 
@@ -136,7 +136,7 @@ Stage 4 (Top 90% Speed)
 
 # Recursion
 - [x] [Subsets](https://leetcode.com/problems/subsets/)
-- [ ] [Subsets II](https://leetcode.com/problems/subsets-ii/) 
+- [x] [Subsets II](https://leetcode.com/problems/subsets-ii/) 
 - [ ] ~~[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/~~
 
 # String
