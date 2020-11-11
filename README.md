@@ -36,11 +36,11 @@ Stage 3 (Leetcode# <= 200) (Finished in Day 99)
 
 Total: 111 / 111
 
-Stage 4
-From a reference [here](https://leetcode.com/discuss/interview-experience/904425/facebook-amazon-apple-google-nyc-oct-2020-offerofferghostedoffer)
+Stage 4 (Top 90% Speed)
+[Reference](https://leetcode.com/discuss/interview-experience/904425/facebook-amazon-apple-google-nyc-oct-2020-offerofferghostedoffer)
 - [x] Tackle a topic at once and then go back and solve a bunch of related problems.
   Topics:
-  - [ ] Buy and Sell Stock
+  - [ ] Buy and Sell Stock (I - IV)
   - [ ] Recursion
   - [ ] 2D Array connectivities
   
