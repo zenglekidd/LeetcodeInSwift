@@ -1,11 +1,11 @@
 # LeetcodeInSwift
 This is the tracking page for my personal Leetcode progress.
 
-  - [x] [Stage 1](#Stage-1) and 2 used problems from [The 30-minute guide to rocking your next coding interview][1]
+  - [x] [Stage 1](#stage-1) and [Stage 2](#stage-2) used problems from [The 30-minute guide to rocking your next coding interview][1]
 
-  - [x] Stage 3 is personal wrap-ups which supplements stage 1&2 
+  - [x] [Stage 3](#stage-3) is personal wrap-ups which supplements stage 1&2 
 
-  - [ ] Stage 4 references from a [post][2] on Leetcode discussions
+  - [ ] [Stage 4](#stage-4) references from a [post][2] on Leetcode discussions
 
 ---
 
@@ -20,7 +20,7 @@ This is the tracking page for my personal Leetcode progress.
 
 Total: 48 / 48 (Finished in Day 30)
 
-Stage 2 (Finished in Day 45)
+## Stage 2 
 - [x] [Tree](#tree) 17 / 17 problems
 - [x] [Heap](#Heap) 4 / 4 problems
 - [x] [Geometry](#Geometry) 8 / 8 problems
@@ -28,9 +28,10 @@ Stage 2 (Finished in Day 45)
 - [x] [Matrix](#Matrix) 4 / 4 problems
 - [x] [Recursion](#Recursion) 2 / 2 problems
 
-Total: 41 / 41
+Total: 41 / 41 (Finished in Day 45)
 
-Stage 3 (Leetcode# <= 200) (Finished in Day 99)
+## Stage 3
+(Leetcode# <= 200)
 - [x] [Top 100 Liked Problems - LeetCode](https://leetcode.com/problemset/top-100-liked-questions/) (Start: 43 / 100 Solved, Current: 100 / 100 Solved, Progress: 57 / 57)
 - [x] [Backtracking - LeetCode](https://leetcode.com/tag/backtracking/) (Start: 6 / 21 Solved, Current: 21 / 21 Solved, Progress: 15 / 15)
 - [x] [Sliding Window - LeetCode](https://leetcode.com/tag/sliding-window/) (Start: 2 / 2 Solved, Current: 2 / 2 Solved)
@@ -40,9 +41,9 @@ Stage 3 (Leetcode# <= 200) (Finished in Day 99)
 - [x] [Breadth-first Search - LeetCode](https://leetcode.com/tag/breadth-first-search/) (Start: 3 / 10 Solved, Current: 10 / 10 Solved, Progress: 7 / 7)
 - [x] [Depth-first Search - LeetCode](https://leetcode.com/tag/depth-first-search/) (Start: 8 / 21 Solved, Current: 21 / 21 Solved, Progress: 13 / 13)
 
-Total: 111 / 111
+Total: 111 / 111 (Finished in Day 99)
 
-Stage 4 (Top 90% Speed)
+## Stage 4
 
 - [x] Tackle a topic at once and then go back and solve a bunch of related problems.
   Topics:
@@ -52,6 +53,8 @@ Stage 4 (Top 90% Speed)
   - [ ] Graphs: Adjacency List and Adjacency Matrix
   
 - [ ] Made sure to do a lot of mock interviews. Almost 1 mock interview every other weekend or so.
+
+(Top 90% Speed)
 
 ## Paper
 - [x] 'Programming pearls: algorithm design techniques' by Jon Bentley (Sep. 1984 Vol. 27 No. 9 Communications of the ACM P885)
