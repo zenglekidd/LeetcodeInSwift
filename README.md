@@ -1,5 +1,5 @@
 # LeetcodeInSwift
-This is the tracking page for my personal Leetcode progress.
+This is the tracking page for personal Leetcode progress.
 
   - [x] [Stage 1](#stage-1) uses part I of problems from [The 30-minute guide to rocking your next coding interview][1]
   
