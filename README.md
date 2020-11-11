@@ -1,5 +1,5 @@
 # LeetcodeInSwift
-Leetcode challenge solutions in Swift Playground. Order of the problems based on Source: [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
+Tracking personal Leetcode progress. The order of the problems for stage 1 and 2 are based on: [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 
 ---
 
