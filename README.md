@@ -1,5 +1,11 @@
 # LeetcodeInSwift
-Tracking personal Leetcode progress. The order of the problems for stage 1 and 2 are based on: [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
+This is the tracking page for my personal Leetcode progress.
+
+  - [x] Stage 1 and 2 used problems from [The 30-minute guide to rocking your next coding interview][1]
+
+  - [x] Stage 3 is personal wrap-ups which supplements stage 1&2 
+
+  - [ ] Stage 4 references from a [post][2] on Leetcode discussions.
 
 ---
 
@@ -37,7 +43,7 @@ Stage 3 (Leetcode# <= 200) (Finished in Day 99)
 Total: 111 / 111
 
 Stage 4 (Top 90% Speed)
-[Reference](https://leetcode.com/discuss/interview-experience/904425/facebook-amazon-apple-google-nyc-oct-2020-offerofferghostedoffer)
+
 - [x] Tackle a topic at once and then go back and solve a bunch of related problems.
   Topics:
   - [ ] Buy and Sell Stock (I - IV)
@@ -192,3 +198,6 @@ Stage 4 (Top 90% Speed)
 [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 
 [Creating and Running a Playground Book](https://developer.apple.com/documentation/swift_playgrounds/creating_and_running_a_playground_book?language=objc)
+
+[1]: https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
+[2]: https://leetcode.com/discuss/interview-experience/904425/facebook-amazon-apple-google-nyc-oct-2020-offerofferghostedoffer
