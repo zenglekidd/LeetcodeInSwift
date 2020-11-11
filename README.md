@@ -1,7 +1,9 @@
 # LeetcodeInSwift
 This is the tracking page for my personal Leetcode progress.
 
-  - [x] [Stage 1](#stage-1) and [Stage 2](#stage-2) used problems from [The 30-minute guide to rocking your next coding interview][1]
+  - [x] [Stage 1](#stage-1) uses part I of problems from [The 30-minute guide to rocking your next coding interview][1]
+  
+  - [x] [Stage 2](#stage-2) uses part II of problems from [the same guide][1]
 
   - [x] [Stage 3](#stage-3) is personal wrap-ups which supplements stage 1&2 
 
@@ -198,7 +200,7 @@ Total: 111 / 111 (Finished in Day 99)
 
 
 ## References
-[The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
+[The 30-minute guide to rocking your next coding interview][1]
 
 [Creating and Running a Playground Book](https://developer.apple.com/documentation/swift_playgrounds/creating_and_running_a_playground_book?language=objc)
 
