@@ -1,16 +1,16 @@
 # LeetcodeInSwift
 This is the tracking page for my personal Leetcode progress.
 
-  - [x] Stage 1 and 2 used problems from [The 30-minute guide to rocking your next coding interview][1]
+  - [x] [Stage 1](#Stage1) and 2 used problems from [The 30-minute guide to rocking your next coding interview][1]
 
   - [x] Stage 3 is personal wrap-ups which supplements stage 1&2 
 
-  - [ ] Stage 4 references from a [post][2] on Leetcode discussions.
+  - [ ] Stage 4 references from a [post][2] on Leetcode discussions
 
 ---
 
 # Progress
-Stage 1 (Finished in Day 30)
+## Stage1
 - [x] [Array](#Array) 11 / 11 problems
 - [x] [Dynamic Programming](#dynamic-programming) 12 / 12 problems
 - [x] [String](#String) 13 / 13 problems
@@ -18,7 +18,7 @@ Stage 1 (Finished in Day 30)
 - [x] [Math](#Math)  3 / 3 problems
 - [x] [Linked list](#linked-list) 6 / 6 problems
 
-Total: 48 / 48
+Total: 48 / 48 (Finished in Day 30)
 
 Stage 2 (Finished in Day 45)
 - [x] [Tree](#tree) 17 / 17 problems
